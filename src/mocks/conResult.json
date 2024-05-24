@@ -1,0 +1,24 @@
+{"category"
+: 
+{"id": 1, "name": "Clothes", "image": "https://i.imgur.com/QkIa5tT.jpeg', creationAt: '2024-02-11T20:19:57.000Z', updatedAt: '2024-02-11T20:19:57.000Z"},
+"creationAt"
+: 
+"2024-02-12T04:54:09.000Z",
+"description"
+: 
+"Life is a beautiful ride.",
+"id"
+: 
+85,
+"images"
+: 
+[["https://i.pinimg.com/564x/0c/40/97/0c4097a53e8f40edbef0413ea01f7f3c.jpg"]],
+"price"
+: 
+1000,
+"title"
+: 
+"Motorbike 404",
+"updatedAt"
+: 
+"2024-02-12T04:54:09.000Z"}
